@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hi there, Let me introduce myself 👋
 
+My name is Waseem, an aspiring developer in the making, I started my career as a dispensing optician in 2007 where I developed an interest in IT and technology. I went on to take some certifications to kickstart my career within an IT support role and I have worked my way up to a cluster IT manager role supporting teaching staff and students across 9 academy schools. I developed an interest in programming through a friend and through his aspirations I started looking into programming and web development and after going through some tutorials on YouTube and Udemy, I decided that this is something I want to do and enrolled onto the Trilogy Frontend Bootcamp to learn more about web development.
+
+So far through my studies, not only have I learned about HTML, CSS and JavaScript, but I have also learned about the importance of creating responsing web pages using CSS grids and flexbox.
+
+- 🌱 I’m currently learning Tailwind CSS
+- 🔭 I’m currently working on a practice management system using react and firebase
 <!--
 **wmohammad83/wmohammad83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
